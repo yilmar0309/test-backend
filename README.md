@@ -9,5 +9,5 @@ to start your NodeJs server
   * yarn start
 
 to build project
-  * npm build
+  * npm run build
   * yarn build
